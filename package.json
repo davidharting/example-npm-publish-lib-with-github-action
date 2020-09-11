@@ -1,5 +1,5 @@
 {
-  "version": "0.1.1",
+  "version": "0.2.0",
   "license": "MIT",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
@@ -29,9 +29,14 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "@davidharting/multiply",
+  "name": "multiply-xnvhf",
   "author": "David Harting",
-  "module": "dist/multiply.esm.js",
+  "module": "dist/multiply-xnvhf.esm.js",
+  "homepage": "https://github.com/davidharting/example-npm-publish-lib-with-github-action#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/davidharting/example-npm-publish-lib-with-github-action.git"
+  },
   "devDependencies": {
     "husky": "^4.3.0",
     "tsdx": "^0.13.3",
