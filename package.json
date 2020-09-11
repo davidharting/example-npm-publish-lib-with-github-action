@@ -1,5 +1,5 @@
 {
-  "version": "0.1.0",
+  "version": "0.1.1",
   "license": "MIT",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
@@ -29,9 +29,9 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "example-npm-pub-gh-action",
+  "name": "@davidharting/multiply",
   "author": "David Harting",
-  "module": "dist/example-npm-pub-gh-action.esm.js",
+  "module": "dist/multiply.esm.js",
   "devDependencies": {
     "husky": "^4.3.0",
     "tsdx": "^0.13.3",
